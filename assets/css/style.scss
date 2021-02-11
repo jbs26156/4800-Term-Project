@@ -3,6 +3,21 @@
 
 @import "{{ site.theme }}";
 
+#project_title {
+    text-align: center;
+}
+
+#project_tagline {
+    text-align: center;
+}
+
+.headerimage {
+    background-color: #212121 !important;
+    background-image: url('https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
 .fixed-top {
     position: fixed;
     top: 0;
@@ -39,11 +54,13 @@ a:hover {
 
 .navbar-nav {
     padding-left: 0;
-    margin-bottom: 50px;
+    padding-bottom: 50px;
     list-style: none;
 }
 
 .nav-item {
+    padding-top: 5px;
+    padding-bottom: 5px;
     font-size: 20px;
     padding-right: 50px;
     display: inline-block;
