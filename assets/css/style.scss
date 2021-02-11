@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
 a {
     color: rgba(255, 255, 255, .5);
 }
@@ -10,7 +18,7 @@ a {
 a:hover {
     color: rgba(255, 255, 255, .5);
     text-decoration: none;
-    box-shadow:  #000 0px 0px 2px;
+    text-shadow:  #000 0px 0px 2px;
 }
 #topNav{
     padding-left: 100px;
@@ -27,10 +35,21 @@ a:hover {
     color: rgba(255, 255, 255, .5) !important;
 }
 
+.navbar-nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
 .nav-item {
     font-size: 20px;
     padding-right: 50px;
-    display: inline-block;
+    display: list-item;
+    text-align: -webkit-match-parent;
 }
 
 .navbar-dark .navbar-toggler {
@@ -39,6 +58,6 @@ a:hover {
 
 .navdiv {
     padding-left: 0px !important;
-    padding-top: 20px !important;
+    padding-top: 0px !important;
     padding-right: 0px !important;
 }
