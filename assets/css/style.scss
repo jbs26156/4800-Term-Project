@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+a {
+    color: #f69801
+}
 #topNav{
     padding-left: 100px;
     padding-right: 100px;
@@ -11,13 +14,19 @@
 }
 
 #navbar-hamburger, #navbar-search{
-    color: var(--bold-color) !important;
+    color: rgb(188, 188, 188) !important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: var(--nav-link-color) !important;
+    color: var(rgba(255, 255, 255, .5)) !important;
 }
 
 .navbar-dark .navbar-toggler {
     border-color:transparent !important;
+}
+
+.navdiv {
+    padding-left: 0px !important;
+    padding-top: 20px !important;
+    padding-right: 0px !important;
 }
