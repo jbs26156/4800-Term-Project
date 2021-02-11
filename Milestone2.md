@@ -1,7 +1,7 @@
 ## Milestone 2
 
-# Part A
+Part A
 
-# Part B
+Part B
 
-# Part C
+Part C
