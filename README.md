@@ -1,36 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Piazza Hut
 
-You can use the [editor on GitHub](https://github.com/jbs26156/4800-Term-Project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jbs26156/4800-Term-Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Hybrid synchronous learning limits active learning for students. This is an issue for students, not so much for the teachers. Pair programming is difficult for partners with one in-person and one online or if both are online. Pair programming and active learning have been crucial tools for students in the computer science department before going virtual. This idea has been lost for students attending hybrid synchronous classes. Thus, the inability of this opportunity removes the benefits of live feedback. 
 
 ### Support or Contact
 
