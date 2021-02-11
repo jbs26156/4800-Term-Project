@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#topNav{
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: var(--main-background-color) !important;
+    box-shadow: #000 0px 0px 8px;
+}
+
+#navbar-hamburger, #navbar-search{
+    color: var(--bold-color) !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: var(--nav-link-color) !important;
+}
+
+.navbar-dark .navbar-toggler {
+    border-color:transparent !important;
+}
