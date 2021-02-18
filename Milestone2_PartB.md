@@ -1,3 +1,8 @@
+---
+layout: page
+title: Part B
+---
+
 ## Milestone 2 Part B
 
 ### B1)
