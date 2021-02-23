@@ -1,6 +1,6 @@
 Our 4800 Project
 
-##Overview:
+## Overview:
 * Zoom creates limitations/ inability to utilize pair programming in college curriculum during hybrid synchronous classes.
 * In previous semesters, we would use Zoom to share screens and Github to share code. There are other applications like Visual Studio’s “Live Share”, but most students did not know of such options. Even with the existence of these third party applications, they still lack certain capabilities that were previously present during in-person pair programming. 
 * Some of these issues include: lack of intuitive use, asynchronous collaboration, inability to share links, one-user session hosting, and lack of easy file sharing.
