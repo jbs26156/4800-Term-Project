@@ -8,4 +8,4 @@ title: Milestone 2
 
 [Part B]({{ site.baseurl }}{% link Milestone2_PartB.md %})
 
-Part C
+[Part C]({{ site.baseurl }}{% link Milestone2_PartC.md %})
