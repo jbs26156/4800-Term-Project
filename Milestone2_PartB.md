@@ -8,7 +8,7 @@ title: Part B
 ### B1)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A website with 14 million users and 35 million projects (April 2016), there is no doubt that GitHub is a popular tool in the computer science field. An existing solution is using github to pair program. One pro of using github can be the ease of concurrently coding. One major con of github is that it has a steep learning curve to be able to use it well. Generally, students who are asked to pair program are new to computer science and usually have little, if any, experience using github. This makes what should be an easy collaborative assignment unnecessarily hard. Additionally, another issue relates to using zoom, specifically having one student control the screen and having the other student give input. The benefit of using zoom with one student controlling the screen is that it allows another student to watch a student code and give input. However, a major con of this deals with the frequent network issues on zoom. Additionally, the observing student might not be able to clearly see what is being typed if the resolution is not perfect. Another shortcoming of this is that the observing student might not feel as if they are contributing. Github was not also designed with the intention of solving pair-programming, and even though it is used to that extent it is at its core a project management software.
 
-<img src="https://i.imgur.com/NeGdEuV.png" width="250">
+<img src="https://i.imgur.com/NeGdEuV.png" width="250" align="center">
 
 ### B2) 
 **Guidelines:**
