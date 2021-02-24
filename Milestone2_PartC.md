@@ -1,3 +1,7 @@
+---
+layout: page
+title: Part C
+---
 ## Part C
 
 ### C1) 
