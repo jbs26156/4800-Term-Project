@@ -3,7 +3,7 @@ layout: page
 title: Part B
 ---
 
-## Milestone 2 Part B
+## Part B
 
 ### B1)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The idea of Pair Programming is nothing new. Throughout the development of the computer age, companies have introduced multiple applications softwares to help programmers collaborate. GitHub, for instance, is a household name among programmers. GitHub, for instance, is a website with over fifty five million users and more than one hundred ninety million repositories [B1:1]. There is no doubt that GitHub is a popular tool in the computer science field. The biggest benefit of GitHub is the ease of concurrent coding. Unfortunately, the website has a steep learning curve for novice users. In general, new computer science students who are asked to pair program have little, if any, experience using GitHub. This makes what should be an easy collaborative assignment unnecessarily difficult. GitHub was not designed to solve the specific issue of Pair Programming. It is an internet host designed to help store software development; there is no live programming component, at least as of yet. At its core, the website is a project management software tool that users can utilize to save and share code.
