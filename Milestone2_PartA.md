@@ -33,7 +33,7 @@ Pair Programming and the Seven Stages of Action
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Overall, pair programming is an essential skill that every computer science student must learn in programming classes. Thus, users would benefit greatly on a solution to the problem of effective remote pair programming.
 
-<h2 align="center">Sources</h2>
+<h2 align="center">Sources</h3>
 [A1:1] 
 Mehmet Celepkolu and Kristy Elizabeth Boyer. 2018. The Importance of Producing Shared Code Through Pair Programming. Proceedings of the 49th ACM Technical Symposium on Computer Science Education (2018). DOI:http://dx.doi.org/10.1145/3159450.3159506 
 [A2:1] 
