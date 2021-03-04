@@ -24,4 +24,5 @@ title: Part C
 Sources:
 
 [C1:1]
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mergel, I. Introducing Open Collaboration in the Public Sector: The Case of Social Coding on Github. SSRN Electronic Journal 32, 4 (2014), 8.
