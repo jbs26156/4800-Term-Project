@@ -36,9 +36,11 @@ Pair Programming and the Seven Stages of Action
 <h2 align="center">Sources</h3>
 [A1:1] 
 
+
 Mehmet Celepkolu and Kristy Elizabeth Boyer. 2018. The Importance of Producing Shared Code Through Pair Programming. Proceedings of the 49th ACM Technical Symposium on Computer Science Education (2018). DOI:http://dx.doi.org/10.1145/3159450.3159506 
 
 
 [A2:1]
+
 Chen, Kuanchin and Rea, Alan (2018) "Do Pair Programming Approaches Transcend Coding? Measuring Agile Attitudes in Diverse Information Systems Courses," Journal of Information Systems Education: Vol. 29 : Iss. 2 , 53-64. 
 
