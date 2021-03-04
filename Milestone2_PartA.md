@@ -40,6 +40,5 @@ Mehmet Celepkolu and Kristy Elizabeth Boyer. 2018. The Importance of Producing S
 
 
 [A2:1]
-
 Chen, Kuanchin and Rea, Alan (2018) "Do Pair Programming Approaches Transcend Coding? Measuring Agile Attitudes in Diverse Information Systems Courses," Journal of Information Systems Education: Vol. 29 : Iss. 2 , 53-64. 
 
