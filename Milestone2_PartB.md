@@ -22,3 +22,13 @@ title: Part B
 **Principles:**
 * Permit easy reversal of actions. Github has many built in ways to go back or revert to previously working code. One way to do this is to use the revert command. Another way to do this is to check out a previous push that worked correctly. With zoom coding, the user who is typing could hit “control-z” in whatever external IDE or text editor they are coding in.  
 * Offer informative feedback. When pair programming with github, when an issue occurs within github, github will try and explain what the issue is. If one has a decent knowledge of github jargon, it can be useful. Unfortunately, it takes a lot of knowledge of github to be able to do this. 
+
+[B1:1]
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Showing 56,854,291 Available Users.” GitHub, github.com/search?q=type%3Auser&type=Users. 
+[B1:2] 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shaban, Hamza. “Zoom Went down for Hours, Disrupting Schools and Businesses.” The Washington Post, WP Company, 24 Aug. 2020, www.washingtonpost.com/business/2020/08/24/zoom-outages-monday/. 
+[B1:3]
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Visual Studio Live Share: Visual Studio.” Visual Studio, 30 Dec. 2020, 	visualstudio.microsoft.com/services/live-share/. 
