@@ -26,9 +26,13 @@ title: Part B
 [B1:1]
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Showing 56,854,291 Available Users.” GitHub, github.com/search?q=type%3Auser&type=Users. 
+
+
 [B1:2] 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shaban, Hamza. “Zoom Went down for Hours, Disrupting Schools and Businesses.” The Washington Post, WP Company, 24 Aug. 2020, www.washingtonpost.com/business/2020/08/24/zoom-outages-monday/. 
+
+
 [B1:3]
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Visual Studio Live Share: Visual Studio.” Visual Studio, 30 Dec. 2020, 	visualstudio.microsoft.com/services/live-share/. 
