@@ -10,4 +10,4 @@ title: Milestone 2
 
 [Part C]({{ site.baseurl }}{% link Milestone2_PartC.md %})
 
-<h3><a href="youtube.com">Part D</a></h3>
+<h3><a href="https://www.youtube.com/">Part D</a></h3>
