@@ -14,10 +14,6 @@ title: Part B
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The closest solution to a peer programming application our group discovered was Visual Studio’s Live Share extension. This extension allows multiple users to use the same Visual Studio IDE simultaneously; it even comes with a built-in voice chat feature [B1:3]. Unfortunately, the Visual Studios Live Share extension is not ideal as it has several shortcomings which make it difficult to use in our problem’s context. For instance, users must be familiar with the Visual Studio interface and the user with the project files must be online for others to have editing privileges. So, though it remedies one problem, it goes onto create multiple others. 
 
-<p align="center">
-<img src="https://i.imgur.com/NeGdEuV.png" width="350">
-</p>
-
 ### B2) 
 **Guidelines:**
 * Practice Universal Design: Github was built to be accessible by all users, given enough time to learn the platform. Zoom also has accessible features, allowing users to turn their microphones and cameras on and off, as well as hotkeys for app functions. The ability to share screens in a call makes pair programming with Zoom possible.
