@@ -21,8 +21,8 @@ title: Part C
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Due to the fact that the result of this survey is subjective in nature, each user’s response will determine whether the solution was a success or not. To turn the subjective responses from the survey into quantitative values, each answer choice from the survey will be assigned a value. For instance, if the options are: strongly disagree, disagree, neutral, agree, or strongly agree, each option will be given a score of -2 to 2. At the end of the survey, each person is assigned a score equal to the sum of their answers. Using this score, we can measure success by comparing each person’s sum, where higher scores showing users preferred the solution software and lower scores showing users preferred the control software. Though the overall score is important, individual responses to questions will also help target areas with room for improvement. If the majority of scores on a specific question are negative, this will show us what specific aspects of our solution need to be improved based on the survey responses.
 
-Sources:
+<h3 align="center">Sources</h3>
 
 [C1:1]
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mergel, I. Introducing Open Collaboration in the Public Sector: The Case of Social Coding on Github. SSRN Electronic Journal 32, 4 (2014), 8.
+Mergel, I. Introducing Open Collaboration in the Public Sector: The Case of Social Coding on Github. SSRN Electronic Journal 32, 4 (2014), 8.
