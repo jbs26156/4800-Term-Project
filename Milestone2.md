@@ -10,4 +10,4 @@ title: Milestone 2
 
 <h4><a href="https://jbs26156.github.io/4800-Term-Project/Milestone2_PartC.html">Part C</a></h4>
 
-<h4><a href="https://www.youtube.com/">Part D</a></h4>
+<h4><a href="https://youtu.be/FN4k13d2n7I">Part D</a></h4>
