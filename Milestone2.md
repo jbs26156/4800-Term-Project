@@ -12,4 +12,4 @@ title: Milestone 2
 
 <h4><a href="https://youtu.be/FN4k13d2n7I">Part D</a></h4>
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FN4k13d2n7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
