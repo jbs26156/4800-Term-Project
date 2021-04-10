@@ -6,20 +6,22 @@ title: Milestone 3 Part A
 ## Part A
 
 ### A1) 
-Coding
+#### Coding
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. As a programming student, I want live error checking on my code so that there are less bugs and errors. 
 
-Communication
+#### Communication
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. As a programming student, I want to be able to communicate with my classmates so that we can discuss the code.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. As a programming student, I want to be able to see what my classmate is typing so that I can follow along and comment on what they are doing. 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. As a programming student, I want to be able to collaborate with my classmates so that we can share ideas, work as a team, and learn from each other.
 
-Live File Sharing
+#### Live File Sharing
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. As a programming student, I want to have access to files so that I can view my work at any time.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. As a programming student, I want my coding partner and I to have access to the same file so that we can work on it simultaneously on different devices.
 
 ### A2) 
