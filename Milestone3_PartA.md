@@ -38,8 +38,8 @@ Simultaneous file sharing saves a lot of time and increases efficiency. It is â€
 
 Sources 
 
-(1) Pair Programming: Does It Really Work? 2021. Agile Alliance |. https://www.agilealliance.org/glossary/pairing.
+(1) Pair Programming: Does It Really Work? 2021. Agile Alliance . https://www.agilealliance.org/glossary/pairing.
 
 (2) Williams, L., Kessler, R. R. (2003). Pair Programming Illuminated. Switzerland: Addison-Wesley.
 
-(3) Victoria, A.Z.U.of, Zagalsky, A., Victoria, U.of, et al. 2015. The Emergence of GitHub as a Collaborative Platform for Education. The Emergence of GitHub as a Collaborative Platform for Education | Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work &amp; Social Computing. https://dl.acm.org/doi/pdf/10.1145/2675133.2675284.
+(3) Victoria, A.Z.U.of, Zagalsky, A., Victoria, U.of, et al. 2015. The Emergence of GitHub as a Collaborative Platform for Education. The Emergence of GitHub as a Collaborative Platform for Education. Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work &amp; Social Computing. https://dl.acm.org/doi/pdf/10.1145/2675133.2675284.
