@@ -35,3 +35,11 @@ Being able to see what other users are typing in real time can help clarify wher
 
 #### Live File Sharing 2:
 Simultaneous file sharing saves a lot of time and increases efficiency. It is “a way to simplify the management of group- owned repositories” (3) that assists in managing class projects.It ensures that each user is able to look at the same file and be able to contribute to it. It also allows users to be able to download files offline in case they do not have a stable internet connection. 
+
+Sources 
+
+(1) Pair Programming: Does It Really Work? 2021. Agile Alliance |. https://www.agilealliance.org/glossary/pairing.
+
+(2) Williams, L., Kessler, R. R. (2003). Pair Programming Illuminated. Switzerland: Addison-Wesley.
+
+(3) Victoria, A.Z.U.of, Zagalsky, A., Victoria, U.of, et al. 2015. The Emergence of GitHub as a Collaborative Platform for Education. The Emergence of GitHub as a Collaborative Platform for Education | Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work &amp; Social Computing. https://dl.acm.org/doi/pdf/10.1145/2675133.2675284.
