@@ -34,4 +34,4 @@ important to see when new things are added, our solution can increase efficiency
 by switching back and forth between files. This design is superior to our other design which was simply showing the user the current working directory. Viewing the project tree
 versus only the current working directory also allows the user to stay organized and prevents misplacing files as all users can clearly see the location of each file.
 
-<h3 align="center"><a href="https://github.com/jbs26156/4800-Term-Project/raw/main/Milestone%203%20-%20Part%20C.xd" download>Download Mockup XD File</a></h3>
+<h3 align="center"><a href="https://github.com/jbs26156/4800-Term-Project/raw/main/Milestone%203%20-%20Part%20C.xd" download>Mockup Adobe XD File</a></h3>
