@@ -61,7 +61,7 @@ This alternate design for this user story presented a more traditional design of
 
 
 
-<h3 align="center"><a href="https://github.com/jbs26156/4800-Term-Project/blob/main/Milestone%203%20-%20Part%20B.xd" download>Adobe XD Wireframes Download</h3>
+<h3 align="center"><a href="https://github.com/jbs26156/4800-Term-Project/raw/main/Milestone%203%20-%20Part%20B.xd" download>Adobe XD Wireframes Download</h3>
 
 
 
