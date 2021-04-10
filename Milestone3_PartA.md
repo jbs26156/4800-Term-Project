@@ -13,6 +13,7 @@ Coding
 Communication
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. As a programming student, I want to be able to communicate with my classmates so that we can discuss the code.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. As a programming student, I want to be able to see what my classmate is typing so that I can follow along and comment on what they are doing. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. As a programming student, I want to be able to collaborate with my classmates so that we can share ideas, work as a team, and learn from each other.
 
