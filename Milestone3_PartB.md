@@ -6,7 +6,7 @@ title: Part B
 ## Part B
 
 
-####User Story 1: As a programming student, I want to be able to communicate with my classmate so that we can discuss the code.
+#### User Story 1: As a programming student, I want to be able to communicate with my classmate so that we can discuss the code.
 
 * Create a button to mute and unmute yourself in real-time
 
@@ -18,7 +18,7 @@ title: Part B
 * With this wireframe we sought to produce a design that would allow users a more passive option for communication, that was centered around real-time messaging rather than any type of live voice or video. This option was created under the assumption that users may want an option that can be recorded and referenced over time.
 
 
-####User Story 2: As a programming student, I want to be able to see what my classmate is typing so that I can follow along and comment on what they are doing.
+#### User Story 2: As a programming student, I want to be able to see what my classmate is typing so that I can follow along and comment on what they are doing.
 
 * Create a notification to see when someone makes an update
 
@@ -31,7 +31,7 @@ Have an indicator showing where the other user(s) are typing
 * Having a highlight above where a user is typing is a good idea so users know who wrote what and where.  It is also a good idea to include a changelog so users can easily go back and look at changes if they need to get rid of something. 
 
 
-####UserStory 3: As a programming student, I want my coding partner and I to have access to the same file so that we can work on it simultaneously on different devices.
+#### UserStory 3: As a programming student, I want my coding partner and I to have access to the same file so that we can work on it simultaneously on different devices.
 
 * Show the file directory in a tree on the side of the interface 
 
