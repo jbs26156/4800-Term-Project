@@ -37,7 +37,7 @@ Being able to see what other users are typing in real time can help clarify wher
 Simultaneous file sharing saves a lot of time and increases efficiency. It is “a way to simplify the management of group- owned repositories” (3) that assists in managing class projects.It ensures that each user is able to look at the same file and be able to contribute to it. It also allows users to be able to download files offline in case they do not have a stable internet connection. 
 
 
-### Sources 
+<h3 align="center">Sources</h3>
 
 (1) Pair Programming: Does It Really Work? 2021. Agile Alliance . https://www.agilealliance.org/glossary/pairing.
 
