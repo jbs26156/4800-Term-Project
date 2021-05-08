@@ -3,27 +3,32 @@ layout: page
 title: Milestone 4 Part A
 ---
 
-## A1)
+##B1)
 
-<h3 align="center"><a href="https://github.com/jbs26156/4800-Term-Project/raw/main/Milestone%204%20-%20Part%20A.xd" download>Prototype Adobe XD File</a></h3>
-  
-  
-## A2)
+### Research Question:
+
+* Does using our solution improve pair-programming efficiency in a hybrid-synchronous class setting? 
+
+### Methodology:
+
+* Mixed Methods - Observation, Survey, and Interview
+* We picked these methods as this would allow for us to observe students utilizing different forms of pair-programming solutions, and then collect both quantitative data from the survey, and qualitative data from the observation and the interview about their experiences with the various pair-programming solutions.
 
 
-### As a programming student, I want to be able to communicate with my classmates so that we can discuss the code. 
+## B2)
 
-By providing a way to mute and unmute oneself in real-time, communication becomes much more efficient. The coding partners can utilize a tactic that works best for their dynamic. For instance, the users can agree to have each person muted and only unmute when a comment needs to be made. This can help increase listening skills so that one person is not talking over the other. Conversely, the users can agree to stay unmuted at all times. As a result, this can increase creativity, since the users can bounce ideas off of one another without hesitation. To facilitate this, we incorporated a button in the prototype that allows the user to mute and unmute themselves without limitations. 
-</br>
+In order to test our research question, we intend to send out an email to the UGA CS student listserv. The email will note that we are planning a voluntary observational study. 
+Additionally, the participants, who complete the study, have the chance to win one of 50 $10 gift cards. CS students that choose to participate will be placed in a group of 2, and each week they will be assigned a specific pair-programming solution to use to solve a coding problem. The different solutions will be: Zoom, VS Code, and our interface. The students will have a week to work on the problem together. We will continue this process for 3 weeks, so that there is replication and thus more data. Each week, all the students participating in the study will be placed in a large Zoom call and then into their group breakout rooms. Researchers will move around the breakout rooms to monitor that the programmers are using their assigned method. At the end of each week, interviewers will ask the pairs specific questions to measure their efficiency and opinions on their assigned method.
 
-### As a programming student, I want to be able to see what my classmate is typing so that I can follow along and comment on what they are doing. 
+1. Informed consent:
+  * The initial email sent will include all pertinent study information, as well as a disclosure that participation is voluntary and an explanation of the possible reward (study incentive).
 
-This allows for a user to track the changes that are being made so it is easy to go back and look over someone else’s changes. This way, if one user encounters an error, the other user can look back at their most recent changes in the session to debug the source of the error. This is essential in a pair programming environment where it is not possible to see every change that is being made by other users.
-While using the prototype, there is a button that displays a recent history of changes. These changes have been made to the user’s session with information regarding the name of the user, the name of the updated file, and the line number of the change associated with the file.
-</br>
+2. Data collection:
+  * We will collect data in three ways, two qualitative and one quantitative. Observation in Zoom breakouts will involve note taking on the part of observers, and interviewers will also take notes during interviews. These notes will be condensed and sorted by frequency of similar notes (e.g. participants found this aspect of the solution counterintuitive). As for quantitative data, surveys will score participant responses and summate scores to provide an approximate rating of the solution software in comparison to traditional hybrid-synchronous pair programming methods.
 
-### As a programming student, I want my coding partner and I to have access to the same file so that we can work on it simultaneously on different devices. 
+3. Data analysis:
+  * To analyze the data collected during the study, positive sentiment towards a specific software will be weighted against negative sentiment in both the qualitative and quantitative datasets. This will provide a ‘big picture’ view of the data, and can be plotted on a graph to show distribution and left or right leans in the dataset, where a left lean indicates an overall negative sentiment towards the software, and a right lean indicates an overall positive sentiment towards the software. These graphs (as there will be one for each of the three pair-programming methods) can then be overlaid or compared, such that clustering and dataset means show which method was the preferred method of the three.
 
-This is the foundation of the pair programming tool we’re attempting to develop. Simultaneous access to the same file(s) will enhance and facilitate idea sharing and debugging, which are the goals of pair programming. Additionally, this wonderful time saving tool will serve as an efficient method that will simplify the management of group-owned repositories. Likewise, this ensures that each user is able to look at and contribute to the same file synchronously or asynchronously. 
-Through our interface, users have the freedom to utilize the file sharing system in whichever way they see fit. For instance, if the partners work best by delegating work, they will face no issues working on the same file(s) individually. In contrast, if the partners choose to work together in unison, and there are technical issues on one end, there will be no fear of losing any files. 
+4. Safe research:
+  * Participants will join a Zoom call and be split into breakout rooms for the observational portion of the study. Surveys will be conducted online, and interviews will be held through Zoom. This eliminates any risk of person-to-person contact, and participants can choose to leave their webcams off during any Zoom call during the study. 
 
