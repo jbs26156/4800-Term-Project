@@ -3,7 +3,7 @@ layout: page
 title: Milestone 3 Part A
 ---
 ## A2)
-</br>
+
 
 ### As a programming student, I want to be able to communicate with my classmates so that we can discuss the code. 
 
