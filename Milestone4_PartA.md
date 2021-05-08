@@ -2,6 +2,12 @@
 layout: page
 title: Milestone 3 Part A
 ---
+
+## A1)
+
+<h3 align="center"><a href="https://github.com/jbs26156/4800-Term-Project/raw/main/Milestone%204%20-%20Part%20A.xd" download>Wireframes Adobe XD File</h3>
+  
+  
 ## A2)
 
 
