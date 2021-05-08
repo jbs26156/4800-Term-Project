@@ -10,14 +10,12 @@ title: Milestone 3 Part A
 By providing a way to mute and unmute oneself in real-time, communication becomes much more efficient. The coding partners can utilize a tactic that works best for their dynamic. For instance, the users can agree to have each person muted and only unmute when a comment needs to be made. This can help increase listening skills so that one person is not talking over the other. Conversely, the users can agree to stay unmuted at all times. As a result, this can increase creativity, since the users can bounce ideas off of one another without hesitation. To facilitate this, we incorporated a button in the prototype that allows the user to mute and unmute themselves without limitations. 
 
 </br>
-
 ### As a programming student, I want to be able to see what my classmate is typing so that I can follow along and comment on what they are doing. 
 
 This allows for a user to track the changes that are being made so it is easy to go back and look over someone else’s changes. This way, if one user encounters an error, the other user can look back at their most recent changes in the session to debug the source of the error. This is essential in a pair programming environment where it is not possible to see every change that is being made by other users.
 While using the prototype, there is a button that displays a recent history of changes. These changes have been made to the user’s session with information regarding the name of the user, the name of the updated file, and the line number of the change associated with the file.
 
 </br>
-
 ###As a programming student, I want my coding partner and I to have access to the same file so that we can work on it simultaneously on different devices. 
 
 This is the foundation of the pair programming tool we’re attempting to develop. Simultaneous access to the same file(s) will enhance and facilitate idea sharing and debugging, which are the goals of pair programming. Additionally, this wonderful time saving tool will serve as an efficient method that will simplify the management of group-owned repositories. Likewise, this ensures that each user is able to look at and contribute to the same file synchronously or asynchronously. 
