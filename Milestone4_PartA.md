@@ -6,13 +6,21 @@ title: Milestone 3 Part A
 
 </br>
 
-### Communication 1:
-The most significant way to have strong communication is through verbal expression. As a result, being able to hear your classmate’s voice in real-time while working together creates a strong partnership. “When talking about the code out loud and articulating it to your partner you are able to find hidden details in the code and can significantly reduce the risk of errors.” (1). We have also considered a text chat for accessibility reasons, as deaf or mute persons would not be able to engage with a voice chat feature.
+### As a programming student, I want to be able to communicate with my classmates so that we can discuss the code. 
+
+By providing a way to mute and unmute oneself in real-time, communication becomes much more efficient. The coding partners can utilize a tactic that works best for their dynamic. For instance, the users can agree to have each person muted and only unmute when a comment needs to be made. This can help increase listening skills so that one person is not talking over the other. Conversely, the users can agree to stay unmuted at all times. As a result, this can increase creativity, since the users can bounce ideas off of one another without hesitation. To facilitate this, we incorporated a button in the prototype that allows the user to mute and unmute themselves without limitations. 
+
 </br>
 
-### Communication 2:
-Being able to see what other users are typing in real time can help clarify where work is being done in a file, and by whom. In pair programming, this allows the ‘driver’ to immediately relay their position in the document to ‘observer’ and allows the observer to follow coding closely. This indicator also allows the observing user to look at other parts of the file while not losing their place, as the driver’s position is kept available so long as they are editing the document. “Creativity in a collaborative context, for example, can be aided by activity awareness, whereby each individual is aware of other collaborators’ work and is cognizant of other people’s plans and understandings” (2).
+### As a programming student, I want to be able to see what my classmate is typing so that I can follow along and comment on what they are doing. 
+
+This allows for a user to track the changes that are being made so it is easy to go back and look over someone else’s changes. This way, if one user encounters an error, the other user can look back at their most recent changes in the session to debug the source of the error. This is essential in a pair programming environment where it is not possible to see every change that is being made by other users.
+While using the prototype, there is a button that displays a recent history of changes. These changes have been made to the user’s session with information regarding the name of the user, the name of the updated file, and the line number of the change associated with the file.
+
 </br>
 
-### Live File Sharing 2:
-Simultaneous file sharing saves a lot of time and increases efficiency. It is “a way to simplify the management of group- owned repositories” (3) that assists in managing class projects.It ensures that each user is able to look at the same file and be able to contribute to it. It also allows users to be able to download files offline in case they do not have a stable internet connection. 
+###As a programming student, I want my coding partner and I to have access to the same file so that we can work on it simultaneously on different devices. 
+
+This is the foundation of the pair programming tool we’re attempting to develop. Simultaneous access to the same file(s) will enhance and facilitate idea sharing and debugging, which are the goals of pair programming. Additionally, this wonderful time saving tool will serve as an efficient method that will simplify the management of group-owned repositories. Likewise, this ensures that each user is able to look at and contribute to the same file synchronously or asynchronously. 
+Through our interface, users have the freedom to utilize the file sharing system in whichever way they see fit. For instance, if the partners work best by delegating work, they will face no issues working on the same file(s) individually. In contrast, if the partners choose to work together in unison, and there are technical issues on one end, there will be no fear of losing any files. 
+
