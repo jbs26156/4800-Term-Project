@@ -3,7 +3,7 @@ layout: page
 title: Milestone 4 Part A
 ---
 
-##B1)
+## B1)
 
 ### Research Question:
 
