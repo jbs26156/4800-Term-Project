@@ -14,5 +14,7 @@ Hybrid synchronous learning limits active learning for students. This is an issu
 ### Milestone Links
 
 [Milestone 2]({{ site.baseurl }}{% link Milestone2.md %})
+
 [Milestone 3]({{ site.baseurl }}{% link Milestone3.md %})
+
 [Milestone 4]({{ site.baseurl }}{% link Milestone4.md %})
