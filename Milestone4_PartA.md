@@ -7,6 +7,18 @@ title: Milestone 4 Part A
 <h3 align="center"><a href="https://github.com/jbs26156/4800-Term-Project/raw/main/Milestone%204%20-%20Part%20A.xd" download>Prototype Adobe XD File</a></h3>
 
 
+<h4 align="center"><a href="https://youtu.be/aAldvic9xZ0">User Story 1: Demo</a></h4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cffOMraBZtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</br>
+
+<h4 align="center"><a href="https://youtu.be/tI7F5G9rI1o">User Story 2: Demo</a></h4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tI7F5G9rI1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</br>
+
+<h4 align="center"><a href="https://youtu.be/cffOMraBZtI">User Story 1: Demo</a></h4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aAldvic9xZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</br>
+
 ## A2)
 ### As a programming student, I want to be able to communicate with my classmates so that we can discuss the code. 
 By providing a way to mute and unmute oneself in real-time, communication becomes much more efficient. The coding partners can utilize a tactic that works best for their dynamic. For instance, the users can agree to have each person muted and only unmute when a comment needs to be made. This can help increase listening skills so that one person is not talking over the other. Conversely, the users can agree to stay unmuted at all times. As a result, this can increase creativity, since the users can bounce ideas off of one another without hesitation. To facilitate this, we incorporated a button in the prototype that allows the user to mute and unmute themselves without limitations. 
